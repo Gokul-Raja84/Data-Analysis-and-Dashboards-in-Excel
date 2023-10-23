@@ -1,6 +1,5 @@
 # Data Analysis in Excel
 
-# Data Analysis in Excel
 
 This repository contains a collection of data analysis projects conducted in Microsoft Excel, each focusing on a specific dataset or domain.
 
