@@ -1,1 +1,2 @@
-# Data-Analysis-in-Excel
+# data-analysis-excel
+Data Analytics Projects - analyzed with - (Excel)
