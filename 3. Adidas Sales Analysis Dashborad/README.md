@@ -1,4 +1,4 @@
 # Dashboard Preview Image for the above Project
 
 
-<img width="1381" alt="Dashboard Image" src="https://github.com/ritesh-29/data-analysis-excel/assets/27215092/a1f5ee07-d41c-4d4e-9de3-55755ae8082f">
+<img width="1381" alt="Dashboard Image" src="https://raw.githubusercontent.com/Gokul-Raja84/Data-Analysis-in-Excel/main/3.%20Adidas%20Sales%20Analysis%20Dashborad/Dashboard%20Image.png">
